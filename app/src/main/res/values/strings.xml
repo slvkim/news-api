@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsAggregator</string>
+    <string name="news_list_title">News For You</string>
+    <string name="read_full_article"><u>read full article</u></string>
+</resources>
